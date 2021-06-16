@@ -1,8 +1,6 @@
 """Traffic sign classification is the process of automatically recognizing traffic signs along the road, including speed limit signs, yield signs, merge signs, etc. """
 
-"""The dataset we’ll be using to train our own custom traffic sign classifier is the German Traffic Sign Recognition Benchmark (GTSRB)."""
-
-The GTSRB dataset consists of 43 traffic sign classes and nearly 50,000 images.
+"""The dataset we’ll be using to train our own custom traffic sign classifier is the German Traffic Sign Recognition Benchmark (GTSRB). The GTSRB dataset consists of 43 traffic sign classes and nearly 50,000 images."""
 
 !git clone https://bitbucket.org/jadslim/german-traffic-signs
 !ls german-traffic-sign
